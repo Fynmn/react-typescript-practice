@@ -10,7 +10,7 @@ export default function App() {
 
         {/* Container 1 */}
         <div className='max-w-7xl w-full mx-auto min-h-screen px-7 py-8'>
-          <div className='flex gap-x-8 items-start flex-wrap gap-y-8'>
+          <div className='flex gap-x-8 flex-wrap gap-y-8'>
             {
               cardData.map(item => (
                 <SimpleCard {...item}></SimpleCard>
