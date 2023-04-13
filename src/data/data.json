@@ -1,0 +1,64 @@
+[
+    {
+        "imgUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "title": "River, Valley and Mountains",
+        "description": "I was freezing cold staying in the tent cabins in Half Dome (formerly Curry) Village in Yosemite Valley with my dad who was there for work, so I got up and drove around the valley at 6 am. There’s been lots of fires in the area and the valley was filled with this thick smoke. Stopped at a turnout near Tunnel View and shot this photo - I really love the symmetry of it and the smooth gradients the smoke produces",
+        "tags": [
+            "Landscape",
+            "Nature",
+            "Aesthetic",
+            "Photography",
+            "River",
+            "Mountains"
+        ]
+    },
+    {
+        "imgUrl": "https://images.unsplash.com/photo-1560415903-cca53660d61d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "title": "Vintage Typewriter",
+        "description": "A black and white photo of an old vintage typewriter with an open book and a pair of glasses resting on it. The image evokes a sense of nostalgia and reminds us of the bygone era when typewriters were the primary tool for writing.",
+        "tags": [
+            "Vintage",
+            "Typewriter",
+            "Book",
+            "Glasses",
+            "Nostalgia",
+            "Writing"
+        ]
+    },
+    {
+        "imgUrl": "https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "title": "Hot Air Balloons at Sunrise",
+        "description": "A breathtaking photograph of a group of hot air balloons hovering over a misty landscape during sunrise. The image captures the beauty and serenity of the moment and makes us feel the freedom of flying.",
+        "tags": [
+            "Hot Air Balloons",
+            "Sunrise",
+            "Misty Landscape",
+            "Freedom",
+            "Flying"
+        ]
+    },
+    {
+        "imgUrl": "https://images.unsplash.com/photo-1585779034823-7e9ac8faec70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "title": "Old Books in a Library",
+        "description": "An image of a row of old books on a wooden shelf in a dimly lit library. The photo has a vintage feel to it and makes us imagine the knowledge and wisdom contained within those pages.",
+        "tags": [
+            "Books",
+            "Library",
+            "Vintage",
+            "Knowledge",
+            "Wisdom"
+        ]
+    },
+    {
+        "imgUrl": "https://images.unsplash.com/photo-1563547257011-054b1054e185?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "title": "Aurora Borealis",
+        "description": "A stunning photograph of the Northern Lights, also known as Aurora Borealis, taken in a snowy landscape. The image captures the beauty and magic of this natural phenomenon and makes us appreciate the wonders of our planet.",
+        "tags": [
+            "Aurora Borealis",
+            "Northern Lights",
+            "Snowy Landscape",
+            "Nature",
+            "Magic"
+        ]
+    }
+]
